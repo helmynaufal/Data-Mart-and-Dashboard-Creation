@@ -28,4 +28,4 @@ There are several table aggregate will be created from table base. Table aggrega
 
 **6. Visualize using Dashboard** <br>
 Here, we use Looker Studio to create a dashboard. We can check the dashboard [here](https://lookerstudio.google.com/reporting/cf5806ed-c892-4925-a689-cc1a853deb64)
-![Dashboard](/Dashboard.png)
+![Dashboard](/image/Dashboard.png)
